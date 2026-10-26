@@ -1,17 +1,17 @@
 // ==UserScript==
 // @name         NodeBB Chat Formatter - Pro (V2.6 - AI Format)
 // @namespace    http://tampermonkey.net/
-// @version      2.6
+// @version      2.7
 // @description   הוספת סרגל כפתורי עיצוב לחלון הצ'אט בפורומי NodeBB - כולל עיצוב אוטומטי ע"י AI - עובד בכמה אתרים
 // @author       טופ שבמתמחים
-// @match        *://*.mitmachim.top/*
-// @match        *://mitmachim.top/*
-// @match        *://bnebrak.com/*
-// @match        *://otzaria.org/*
-// @match        *https://forum-gabai.onrender.com/*
+// @match        https://mitmachim.top/*
+// @match        https://otzaria.org/forum/*
+// @match        https://bnebrak.com/*
+// @match        https://forum-gabai.onrender.com/*
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_registerMenuCommand
+// @icon         https://mitmachim.top/assets/uploads/profile/uid-29575/29575-profileavatar-1785066344286.png
 // @license      MIT
 // @updateURL   https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/-NodeBB-Chat-Formatter---Pro-AI-Tampermonkey/main/NODBIBI.user.js
 // @downloadURL https://raw.githubusercontent.com/TOP-SHEBAMITMACHIM/-NodeBB-Chat-Formatter---Pro-AI-Tampermonkey/main/NODBIBI.user.js
